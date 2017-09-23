@@ -16,7 +16,7 @@
     ![Mockup for feature A][responsive]
 
 
-# CONTENT BASE IMAGERY
+# CONTENT BASED IMAGERY
 
 - is the imagery on the site relevant to the content
 - were high quality professional images used to convey the best presentation
