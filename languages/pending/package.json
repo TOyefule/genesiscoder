@@ -1,0 +1,26 @@
+{
+  "name": "languages",
+  "version": "1.0.0",
+  "description": "quickly navigate through language pack provided from FLR Method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://adsgraphicsfirm@adsgraphicsfirm.com/~/repos/languages"
+  },
+  "keywords": [
+    "lanauge"
+  ],
+  "author": "spence",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

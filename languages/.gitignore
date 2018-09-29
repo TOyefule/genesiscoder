@@ -1,0 +1,4 @@
+*.swp
+.idea
+*lock.json
+node_modules/

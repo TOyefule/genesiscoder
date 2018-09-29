@@ -9,7 +9,7 @@
 
 # RESPONSIVE DESIGN
 
-- the use of website frameworks such as twitter bootrap or flex box to achieve a website design that adapts to scaling.
+- the use of website frameworks such as twitter bootstrap or flex box to achieve a website design that adapts to scaling.
 - the website responds to the size of the screen and rearranges the content accordingly to provide the view the best experience based on their device
 - the site has a custom design for desktop, tablets and mobile devices
 
@@ -44,8 +44,13 @@
 
 # COPYWRITING
 
+<<<<<<< 4f3242554e9175b0b975339e4f2b38356fc3dce7
 
 - is the content professionally written to engage visitors
 	
 # MARKDOWN LINK
 https://chrome.google.com/webstore/detail/markdown-reader/gpoigdifkoadgajcincpilkjmejcaanc/related?hl=en
+=======
+- is the content professionally written to engage visitors
+p
+>>>>>>> stage
