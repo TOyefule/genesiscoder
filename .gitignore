@@ -1,1 +1,4 @@
 wp-*
+.idea*
+logger/src/*
+package-lock*
